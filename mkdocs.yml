@@ -5,7 +5,7 @@ site_url: https://cu-esiil.github.io/training
 
 # Repository
 repo_name: training
-repo_url: https://github.com/courtneylk/training/edit/main/mkdocs.yml
+repo_url: https://github.com/courtneylk/training
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
