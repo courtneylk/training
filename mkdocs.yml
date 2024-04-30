@@ -1,11 +1,11 @@
-site_name: 'ESIIL Postdoctoral Researcher OASIS'
-site_description: 'Central resource for ESIIL postdoctoral researchers'
-site_author: Ty Tuff
-site_url: https://cu-esiil.github.io/Postdoc_OASIS
+site_name: 'courtney's training repo'
+site_description: 'learning how to use github'
+site_author: Courtney King
+site_url: https://cu-esiil.github.io/training
 
 # Repository
-repo_name: Postdoc_OASIS
-repo_url: https://github.com/CU-ESIIL/Postdoc_OASIS
+repo_name: training
+repo_url: https://github.com/courtneylk/training/edit/main/mkdocs.yml
 edit_uri: edit/main/docs/
 # Copyright
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
